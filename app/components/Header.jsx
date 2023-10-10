@@ -9,7 +9,7 @@ const Header = () => {
 				<Link href="/">Git Repo</Link>
 			</div>
 			<div className='links'>
-				<Link href="/about">About</Link>
+				<Link href="/">About</Link>
 				<Link href="/code/repos">Repository</Link>
 			</div>
 		</div>

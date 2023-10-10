@@ -4,18 +4,8 @@ import React from 'react'
 const HomePage = () => {
   return (
     <div>
-      <h1>Welcome To My Repo</h1>
-      <ul>
-        <li>
-          <Link href='/'>Home</Link>
-        </li>
-        <li>
-          <Link href='/about'>About</Link>
-        </li>
-        <li>
-          <Link href='/about/team'>Team</Link>
-        </li>          
-      </ul>
+      <h1>About Git Repo</h1>
+		<p>This is a web application that showcases Github repository without having to log into Github. It features Github's public API.</p>
     </div>
   )
 }
